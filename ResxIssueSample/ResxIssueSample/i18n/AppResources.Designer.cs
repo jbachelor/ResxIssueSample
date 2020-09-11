@@ -97,15 +97,6 @@ namespace ResxIssueSample.i18n {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New localized string, added from VS4Windows.
-        /// </summary>
-        internal static string SomethingNew {
-            get {
-                return ResourceManager.GetString("SomethingNew", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to This is a piece of text that has been localized, so that it will display in either English or Spanish, depending on which language your device is set to..
         /// </summary>
         internal static string WelcomeMessage {

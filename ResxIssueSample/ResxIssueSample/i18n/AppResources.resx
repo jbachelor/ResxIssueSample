@@ -132,10 +132,6 @@
     <value>Ok, Super!</value>
     <comment>For all OK buttons</comment>
   </data>
-  <data name="SomethingNew" xml:space="preserve">
-    <value>New localized string, added from VS4Windows</value>
-    <comment>VS4Windows string addition</comment>
-  </data>
   <data name="WelcomeMessage" xml:space="preserve">
     <value>This is a piece of text that has been localized, so that it will display in either English or Spanish, depending on which language your device is set to.</value>
     <comment>This is my app's welcome message</comment>
