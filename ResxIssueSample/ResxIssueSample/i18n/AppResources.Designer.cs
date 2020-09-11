@@ -59,5 +59,41 @@ namespace ResxIssueSample.i18n {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A decoder ring that turned out to tell poor Ralphie nothing but an ad for drinking his Ovaltine..
+        /// </summary>
+        internal static string LittleOrphanAnnie {
+            get {
+                return ResourceManager.GetString("LittleOrphanAnnie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No, thank you.
+        /// </summary>
+        internal static string NoThanksButtonText {
+            get {
+                return ResourceManager.GetString("NoThanksButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ok, Great!.
+        /// </summary>
+        internal static string OkButtonText {
+            get {
+                return ResourceManager.GetString("OkButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is a piece of text that has been localized, so that it will display in either English or Spanish, depending on which language your device is set to..
+        /// </summary>
+        internal static string WelcomeMessage {
+            get {
+                return ResourceManager.GetString("WelcomeMessage", resourceCulture);
+            }
+        }
     }
 }
