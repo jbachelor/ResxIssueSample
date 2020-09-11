@@ -79,7 +79,7 @@ namespace ResxIssueSample.i18n {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ok, Great!.
+        ///   Looks up a localized string similar to Ok, Super!.
         /// </summary>
         internal static string OkButtonText {
             get {

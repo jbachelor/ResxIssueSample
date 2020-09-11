@@ -126,7 +126,7 @@
     <comment>For all Cancel buttons</comment>
   </data>
   <data name="OkButtonText" xml:space="preserve">
-    <value>Ok, Great!</value>
+    <value>Ok, Super!</value>
     <comment>For all OK buttons</comment>
   </data>
   <data name="WelcomeMessage" xml:space="preserve">

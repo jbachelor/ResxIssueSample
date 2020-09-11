@@ -124,7 +124,7 @@
     <value>No gracias</value>
   </data>
   <data name="OkButtonText" xml:space="preserve">
-    <value>¡Vale genial!</value>
+    <value>¡Bien, perfecto!</value>
   </data>
   <data name="WelcomeMessage" xml:space="preserve">
     <value>Este es un fragmento de texto que ha sido localizado, por lo que se mostrará en inglés o español, según el idioma en el que esté configurado su dispositivo.</value>
