@@ -108,7 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ResxIssueSample\ResxIssueSample.csproj">
-      <Project>{A682884C-CB44-4A89-B752-27BB634E0ABE}</Project>
+      <Project>{F60E6CD9-0132-4538-BEEC-2C6C9684E17F}</Project>
       <Name>ResxIssueSample</Name>
     </ProjectReference>
   </ItemGroup>
