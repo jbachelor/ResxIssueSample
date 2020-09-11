@@ -61,6 +61,15 @@ namespace ResxIssueSample.i18n {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} is the coolest..
+        /// </summary>
+        internal static string _0_FormatMessage {
+            get {
+                return ResourceManager.GetString("0_FormatMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to A decoder ring that turned out to tell poor Ralphie nothing but an ad for drinking his Ovaltine..
         /// </summary>
         internal static string LittleOrphanAnnie {

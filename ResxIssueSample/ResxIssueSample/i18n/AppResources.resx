@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="0_FormatMessage" xml:space="preserve">
+    <value>{0} is the coolest.</value>
+  </data>
   <data name="LittleOrphanAnnie" xml:space="preserve">
     <value>A decoder ring that turned out to tell poor Ralphie nothing but an ad for drinking his Ovaltine.</value>
     <comment>This is a poorly worded reference to one of my favorite movies from my childhood.</comment>
